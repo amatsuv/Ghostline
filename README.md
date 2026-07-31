@@ -52,7 +52,10 @@ npm run dev
 
 Operated by **Moja Holdings LLC** (Wyoming). We log nothing we don't legally have to.
 
-This is a WIP, nothing works yet, pure placeholder
+Privacy-first VoIP service with Swap n’ Burn™ technology
 ---
 
 *"We log nothing. We can't hand over what doesn't exist."*
+
+
+This is a placeholder
